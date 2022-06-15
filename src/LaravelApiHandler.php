@@ -13,6 +13,6 @@ class LaravelApiHandler extends ExceptionHandler
         return response()->json([
             'status' => 'fail',
             'error' => 'Laravel Api Handler'
-        ]);
+        ], 400);
     }
 }
