@@ -13,7 +13,7 @@
     "prefer-stable":true,
     "autoload": {
         "psr-4": {
-            "Novichkovv\\ApiHandler\\": "src/"
+            "Novichkovv\\LaravelApiHandler\\": "src/"
         }
     },
     "require": {

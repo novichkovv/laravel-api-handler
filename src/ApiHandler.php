@@ -1,5 +1,5 @@
 <?php
-namespace Novichkovv\ApiHandler;
+namespace Novichkovv\LaravelApiHandler;
 
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use Illuminate\Http\JsonResponse;

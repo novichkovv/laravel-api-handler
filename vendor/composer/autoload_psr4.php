@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Novichkovv\\ApiHandler\\' => array($baseDir . '/src'),
+    'Novichkovv\\LaravelApiHandler\\' => array($baseDir . '/src'),
 );
