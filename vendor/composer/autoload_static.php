@@ -9,12 +9,12 @@ class ComposerStaticInitf8168241d7c54b94c800b469740cb91d
     public static $prefixLengthsPsr4 = array (
         'N' => 
         array (
-            'Novichkovv\\LaravelApiHandler\\' => 29,
+            'Novichkovv\\ApiHandler\\' => 22,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Novichkovv\\LaravelApiHandler\\' => 
+        'Novichkovv\\ApiHandler\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
