@@ -19,5 +19,12 @@
     "require": {
         "php": ">=8.1.0",
         "laravel/framework": "^9.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Novichkovv\\LaravelApiHandler\\ApiHandlerProvider"
+            ]
+        }
     }
 }
