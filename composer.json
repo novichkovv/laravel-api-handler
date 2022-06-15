@@ -1,7 +1,7 @@
 {
     "name": "novichkovv/laravel-api-handler",
     "description": "Simple Exceptions Handler for API responses on Laravel",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
